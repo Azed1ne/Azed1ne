@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h3 align="center">A fresh Computer Science graduate with passion to Data & machine/deep learning</h3>
 
 ## About me
-Azedine, 23 years old, recent valedictorian in 'Networks and Distributed Information Systems' ( Masters Degree ).
+Azedine, 23 years old, recent valedictorian in 'Networks and Distributed Information Systems' (Master's Degree ), though, for my graduation project I made several predictive models, forecasting models and even anomaly detection models using a mixture of machine learning and deep learning techniques to have optimized maintenance operations for an Industry 4.0: Oil and gas industry.
 
 I enjoy exploring machine learning algorithms and training complex neural networks to solve challenging problems in computer vision and natural language processing.
 
