@@ -34,7 +34,7 @@ Tinkering with open-source machine learning libraries in Python and experimentin
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=azed1ne&show_icons=true&locale=en&layout=compact" alt="azed1ne" /></p> -->
 
-##Highlighted Repositories:
+## Highlighted Repositories:
 
 <h3>Machine Learning projects:</h3>
 
