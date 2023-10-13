@@ -34,7 +34,8 @@ Tinkering with open-source machine learning libraries in Python and experimentin
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=azed1ne&show_icons=true&locale=en&layout=compact" alt="azed1ne" /></p> -->
 
-<h2><i>Highlighted Repositories:</i></h2>
+##Highlighted Repositories:
+
 <h3>Machine Learning projects:</h3>
 
 [Australian rain prediction](https://github.com/Azed1ne/AUS-rain-prediction-improved) I improved the performance of a model that predicts whether it'll rain tomorrow or not.
@@ -51,7 +52,7 @@ Tinkering with open-source machine learning libraries in Python and experimentin
 
 [Douda game](https://github.com/Azed1ne/SpaceWars) the classic game of snake made in OOP Python. 
 
-
+<!-- ##Technologies i use: -->
 
 
 <h2><i>Contact me:</i></h2>
