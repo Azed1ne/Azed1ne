@@ -39,6 +39,9 @@ Tinkering with open-source machine learning libraries in Python and experimentin
 <h3>Machine Learning projects:</h3>
 
 [Australian rain prediction](https://github.com/Azed1ne/AUS-rain-prediction-improved) I improved the performance of a model that predicts whether it'll rain tomorrow or not.
+
+[CC fraud detection](https://github.com/Azed1ne/cc-fraud-detection-with-snapml) Comparison between the performance of different prediction models with and without IBM's SnapML API.
+
 <h3>Deep Learning projects:</h3>
 <h3>Computer Vision projects:</h3>
 
