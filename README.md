@@ -20,6 +20,12 @@ Azedine, 23 years old, recent valedictorian in 'Networks and Distributed Informa
 
 Though, for my graduation project I made several predictive models, forecasting models and even anomaly detection models using a mixture of machine learning and deep learning techniques to have optimized maintenance operations for an Industry 4.0: Oil and gas industry.
 
+I really enjoy working with machine learning algorithms to solve complicated computer vision and language problems by training neural networks, as well as exploring large datasets using distributed computing to create predictive models. 
+
+I also find it fascinating to experiment with techniques such as regression, clustering and recommendations, in addition to playing around with reinforcement learning and how software agents can learn without instructions.
+<!--
+
+
 I enjoy exploring machine learning algorithms and training complex neural networks to solve challenging problems in computer vision and natural language processing.
 
 I find it fascinating to analyze huge datasets using distributed computing frameworks and build predictive models with techniques like regression analysis, clustering, and recommendation engines.
@@ -27,6 +33,10 @@ I find it fascinating to analyze huge datasets using distributed computing frame
 Playing around with reinforcement learning intrigues me - seeing how agents can learn optimal behaviours and strategies solely through interaction with their environment is really powerful.
 
 Tinkering with open-source machine learning libraries in Python and experimenting with model architectures, hyperparameter tuning, and deployment workflows helps expand my skills in this dynamic field.
+
+ What are you here for :p 
+
+-->
 
 
 <!--<h3 align="left">Languages and Tools:</h3>
