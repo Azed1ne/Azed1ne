@@ -54,7 +54,7 @@ Tinkering with open-source machine learning libraries in Python and experimentin
 
 <h3>Deep Learning projects:</h3>
 
-[Image classification on CIFAR-10](https://github.com/Azed1ne/Image-classification-on-the-CIFAR-10-dataset) Built ANN and CNN models to classify the 60k dataset and got an accuracy of 74%.
+[Image classification on CIFAR-10](https://github.com/Azed1ne/Image-classification-on-the-CIFAR-10-dataset) Built ANN and CNN models to classify the 60k dataset and got an accuracy of 74% with WebAPP using Gradio
 
 
 <h3>Computer Vision projects:</h3>
